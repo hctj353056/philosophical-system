@@ -1,0 +1,24 @@
+philosophical-system/
+  CHANGELOG.md
+  META/proposition-template.md
+  META/proposition-types.md
+  META/revision-policy.md
+  META/rules.md
+  README.md
+  SYSTEM.md
+  derivations/README.md
+  history/decision-log.md
+  indexes/dependency-index.csv
+  indexes/proposition-index.csv
+  indexes/provenance-index.csv
+  propositions/L0/L0.1-inquiry-is-occurring.md
+  propositions/L1/L1.1-reality-independence.md
+  propositions/L1/L1.2-model-is-not-world.md
+  propositions/L1/L1.3-fallibility-and-revision.md
+  propositions/L1/L1.4-consensus-not-truth.md
+  propositions/L1/L1.5-knowledge-not-capability.md
+  propositions/L1/L1.6-practice-and-revision.md
+  propositions/L1/L1.7-local-optimum.md
+  propositions/L1/L1.8-survival-and-correction.md
+  propositions/L2/L2.1-action-feedback-loop.md
+  reviews/README.md
