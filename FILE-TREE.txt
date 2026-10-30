@@ -1,24 +1,35 @@
-philosophical-system/
+哲学体系/                          [四层架构 v0.2.0]
+  README.md                        四层架构入口
+  体系总纲.md                      L 层总体架构（含 §7.1 符号主权、§9 四层关系）
   CHANGELOG.md
-  META/proposition-template.md
-  META/proposition-types.md
-  META/revision-policy.md
-  META/rules.md
-  README.md
-  SYSTEM.md
-  derivations/README.md
-  history/decision-log.md
-  indexes/dependency-index.csv
-  indexes/proposition-index.csv
-  indexes/provenance-index.csv
-  propositions/L0/L0.1-inquiry-is-occurring.md
-  propositions/L1/L1.1-reality-independence.md
-  propositions/L1/L1.2-model-is-not-world.md
-  propositions/L1/L1.3-fallibility-and-revision.md
-  propositions/L1/L1.4-consensus-not-truth.md
-  propositions/L1/L1.5-knowledge-not-capability.md
-  propositions/L1/L1.6-practice-and-revision.md
-  propositions/L1/L1.7-local-optimum.md
-  propositions/L1/L1.8-survival-and-correction.md
-  propositions/L2/L2.1-action-feedback-loop.md
-  reviews/README.md
+  FILE-TREE.txt
+  元规则/
+    格式约定.md                    ★ schema 英文、文档中文；四张中英对照表
+    跨体系接口.md                  ★ 跨体系接口登记 + 跨层修订传导
+    命题类型与状态.md              12 类型 / 9 状态（含中文名）
+    修订政策.md
+    命题模板.md
+    体系规则.md
+  分层/
+    E-概念体系-v1.1.md             ★ E 层：E0-E3 重新编号，苹果移出清单
+    S-规格层映射.md                ★ S 层：S0-S3 映射 + 2 条新元不变式
+    O-建模对象层.md                ★ O 层：四层认知框架的本体定位
+  命题/
+    L0/L0.1-认识活动正在发生.md
+    L1/L1.1-现实不完全取决于特定主体的认识.md     [+ 推论限制]
+    L1/L1.2-个体模型不等于世界.md                 [+ 下游细化]
+    L1/L1.3-认识可能出错且可以修订.md
+    L1/L1.4-主体间共识不等于真实.md
+    L1/L1.5-认识不自动转化为实践能力.md
+    L1/L1.6-实践反馈可以触发认识修订.md
+    L1/L1.7-无可修正可能只是局部最优.md
+    L1/L1.8-存续压力可能参与认识机制的形成.md
+    L2/L2.1-行动反馈修订循环.md
+    L2/L2.2-规格层与认识层的接口.md               [新增]
+  索引/
+    命题索引.csv                   11 条命题
+    依赖索引.csv                   14 条依赖
+    来源索引.csv                   12 条来源（含 proposition_id 列）
+  历史/决策日志.md                 0.1.0 初始 + 0.2.0 整合 5 项决策
+  推导/README.md
+  评审/README.md

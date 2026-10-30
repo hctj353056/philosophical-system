@@ -9,3 +9,7 @@ L1.7,L1.3,qualifies,proposed,对持续修订的终点作限制
 L1.8,L1.3,related-to,proposed,发生学假说，尚非逻辑推论
 L2.1,L1.3,depends-on,proposed,包含认识可错与修订的假设
 L2.1,L1.6,depends-on,proposed,包含实践反馈触发修订的模型
+L2.2,L1.2,depends-on,proposed,规格描述系统内执行规则而非世界断言
+L2.2,L1.3,depends-on,proposed,规格条款同样可错且需要修订通道
+L2.2,L1.6,extends,proposed,规格运行结果是实践反馈的主要来源
+L2.2,L1.7,qualifies,proposed,禁止只打底层补丁，防局部最优固化

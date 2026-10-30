@@ -1,0 +1,13 @@
+id,proposition_id,kind,description,source,status
+P001,L0.1,user-formulation,哲学不是完备理论的预先建构，而是有限主体对存在认识推理价值与共同生活的持续反思,用户与助手对话整理,proposed
+P002,L1.7,user-formulation,修无可修可能意味着当前无法继续修订但仍可能是局部最优,用户与助手对话整理,proposed
+P003,L1.4,user-formulation,意义世界向主体间公共模型收敛不等于完全对应真实物理世界,用户与助手对话整理,proposed
+P004,L1.5,user-formulation,认识论知识不自动等于方法论或实际能力,用户与助手对话整理,proposed
+P005,L1.6,user-formulation,实践偏差可以促使经验与理论修订,用户与助手对话整理,proposed
+P006,L1.8,assistant-qualification,存续压力与认识形成之间的关系须区分进化学习文化传递,对话中的分析性限定,proposed
+P007,L1.1,design-decision,现实独立性被标为本体论工作承诺而非由L0.1推出,命题正文·直接依据节；具体对话出处待补,needs-source
+P008,L1.2,design-decision,建立W/Mᵢ/C三分，用以组织共识与真实的区分,命题正文·区分节；具体对话出处待补,needs-source
+P009,L1.3,design-decision,可错与可修订作为开展研究的前提被采用,命题正文·直接依据节；具体对话出处待补,needs-source
+P010,L2.1,design-decision,形成预期—行动—比较—偏差—修订的循环模型,命题正文·模型节；具体对话出处待补,needs-source
+P011,L2.2,integration-review,规格化会引入不可检验假设；四层体系整合评审中提出,2026-10-30 整合评审（四层架构整合评审_20261030.html）,proposed
+P012,E-06,design-decision,认知基线应挂L1.2而非L1.1：表征层与本体层分离,元规则/跨体系接口.md 接口①；2026-10-30 整合评审,proposed
