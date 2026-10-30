@@ -1,0 +1,11 @@
+source_id,target_id,relation,status,notes
+L1.1,L0.1,contextualizes,proposed,现实独立性是额外本体论承诺而非L0.1的逻辑推论
+L1.2,L0.1,clarifies,proposed,用模型与世界的区分组织认识问题
+L1.3,L0.1,extends,proposed,从认识活动出发提出可错性与修订可能
+L1.4,L1.2,depends-on,proposed,区分公共模型与真实世界
+L1.5,L1.2,extends,proposed,区分模型内容与实践能力
+L1.6,L1.3,extends,proposed,将修订与经验反馈联系起来
+L1.7,L1.3,qualifies,proposed,对持续修订的终点作限制
+L1.8,L1.3,related-to,proposed,发生学假说，尚非逻辑推论
+L2.1,L1.3,depends-on,proposed,包含认识可错与修订的假设
+L2.1,L1.6,depends-on,proposed,包含实践反馈触发修订的模型
