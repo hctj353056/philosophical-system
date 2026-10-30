@@ -1,0 +1,11 @@
+id,title,level,type,status,path,notes
+L0.1,认识活动正在发生,L0,starting-point,proposed,propositions/L0/L0.1-inquiry-is-occurring.md,从当前论证活动出发；不直接承诺完整本体论
+L1.1,现实不完全取决于特定主体的认识,L1,postulate,proposed,propositions/L1/L1.1-reality-independence.md,本体论工作承诺；尚待辩护
+L1.2,个体模型不等于世界,L1,definition,proposed,propositions/L1/L1.2-model-is-not-world.md,区分W与M_i
+L1.3,认识可能出错且可以修订,L1,postulate,proposed,propositions/L1/L1.3-fallibility-and-revision.md,需要说明检验条件
+L1.4,主体间共识不等于真实,L1,hypothesis,proposed,propositions/L1/L1.4-consensus-not-truth.md,共识可能共享错误
+L1.5,认识不自动转化为实践能力,L1,postulate,proposed,propositions/L1/L1.5-knowledge-not-capability.md,认识、方法、能力与行动有断点
+L1.6,实践反馈可以触发认识修订,L1,model,proposed,propositions/L1/L1.6-practice-and-revision.md,反馈偏差不自动证明理论错误
+L1.7,无可修正可能只是局部最优,L1,model,proposed,propositions/L1/L1.7-local-optimum.md,当前无更优方案不代表全局最优
+L1.8,存续压力可能参与认识机制的形成,L1,hypothesis,proposed,propositions/L1/L1.8-survival-and-correction.md,区分进化、学习与文化传递
+L2.1,行动反馈修订循环,L2,model,proposed,propositions/L2/L2.1-action-feedback-loop.md,综合L1.3与L1.6形成的工作模型
